@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recap", "Recap\Recap.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{5E45F1F1-3984-423E-9AC9-884D2A3A8710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{37529023-4B22-458D-8A24-5938B8FDC67C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{74056D5D-3E01-4607-A496-5981A5ED9158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{5E45F1F1-3984-423E-9AC9-884D2A3A8710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E45F1F1-3984-423E-9AC9-884D2A3A8710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E45F1F1-3984-423E-9AC9-884D2A3A8710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37529023-4B22-458D-8A24-5938B8FDC67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37529023-4B22-458D-8A24-5938B8FDC67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37529023-4B22-458D-8A24-5938B8FDC67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37529023-4B22-458D-8A24-5938B8FDC67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74056D5D-3E01-4607-A496-5981A5ED9158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74056D5D-3E01-4607-A496-5981A5ED9158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74056D5D-3E01-4607-A496-5981A5ED9158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74056D5D-3E01-4607-A496-5981A5ED9158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
