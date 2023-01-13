@@ -46,7 +46,7 @@ namespace AdoNetDemo
             }
         }
 
-        public DataTable GetAll2()
+       /* public DataTable GetAll2()
         {
             
             if (_connection.State == ConnectionState.Closed)
@@ -62,7 +62,7 @@ namespace AdoNetDemo
             reader.Close();
             _connection.Close();
             return dataTable;
-        }
+        }*/
 
         public void Add(Product product)
         {
